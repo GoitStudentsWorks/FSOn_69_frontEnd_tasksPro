@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FSOn_69_frontEnd_tasksPro/static/css/main.5fbe0a9b.css",
-    "main.js": "/FSOn_69_frontEnd_tasksPro/static/js/main.d360676f.js",
+    "main.js": "/FSOn_69_frontEnd_tasksPro/static/js/main.4f1b3312.js",
     "static/js/661.9c7161f6.chunk.js": "/FSOn_69_frontEnd_tasksPro/static/js/661.9c7161f6.chunk.js",
     "static/js/126.a3f93ca4.chunk.js": "/FSOn_69_frontEnd_tasksPro/static/js/126.a3f93ca4.chunk.js",
     "static/js/519.504e4443.chunk.js": "/FSOn_69_frontEnd_tasksPro/static/js/519.504e4443.chunk.js",
@@ -75,7 +75,7 @@
     "static/media/bg-mini10.webp": "/FSOn_69_frontEnd_tasksPro/static/media/bg-mini10.1aa9027303e9fca4df4e.webp",
     "static/media/bg-miniDefault.webp": "/FSOn_69_frontEnd_tasksPro/static/media/bg-miniDefault.5a72f90f82c4dfb963bc.webp",
     "main.5fbe0a9b.css.map": "/FSOn_69_frontEnd_tasksPro/static/css/main.5fbe0a9b.css.map",
-    "main.d360676f.js.map": "/FSOn_69_frontEnd_tasksPro/static/js/main.d360676f.js.map",
+    "main.4f1b3312.js.map": "/FSOn_69_frontEnd_tasksPro/static/js/main.4f1b3312.js.map",
     "661.9c7161f6.chunk.js.map": "/FSOn_69_frontEnd_tasksPro/static/js/661.9c7161f6.chunk.js.map",
     "126.a3f93ca4.chunk.js.map": "/FSOn_69_frontEnd_tasksPro/static/js/126.a3f93ca4.chunk.js.map",
     "519.504e4443.chunk.js.map": "/FSOn_69_frontEnd_tasksPro/static/js/519.504e4443.chunk.js.map",
@@ -85,6 +85,6 @@
   },
   "entrypoints": [
     "static/css/main.5fbe0a9b.css",
-    "static/js/main.d360676f.js"
+    "static/js/main.4f1b3312.js"
   ]
 }
